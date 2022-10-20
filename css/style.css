@@ -14,7 +14,7 @@
 
 body {
     color: aliceblue;
-    background: #141E30;
+    background: linear-gradient(to right, #141e30, #243b55);
 }
 
 main {
